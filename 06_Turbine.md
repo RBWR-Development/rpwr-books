@@ -1,4 +1,4 @@
-## Turbine panel
+# Turbine panel
 
 Turbine panel consists of two main valves. The bypass valve and turbine valve. They can be used when MSIV is open. Bypass is used to move steam directly into the condenser bypassing the turbine, on the other hand the turbine valve directs steam into the turbine.
 Turbine can be started when enough vacuum is available in the condenser (50-70mbar) and optimal pressure (around 7100 kPa) is available in the main steam line. There is a automatic runup systems which allows to chose between target RPM and runup speed. Synchronization speed is 1500 RPM.
