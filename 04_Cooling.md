@@ -1,4 +1,4 @@
-## Reactor Cooling
+# Reactor Cooling
 
 This is the main panel for the primary circuit. Reactor Coolant Pumps will circulate water between the core and the steam generators allowing for heat exchange between primary and secondary.
 There are two legs of the system (left leg leading to left SG and right one leading to right SG), each having 2 pumps (RCP1 and RCP3 foe the left leg, RCP2, RCP4 for the right leg).
