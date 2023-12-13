@@ -1,8 +1,8 @@
-## Reactor Control
+# Reactor Control
 
 Reactor panel is located on the left side of the control room. It consists of the main panel and two supporting panels (CVCS and RHR).
 
-# Reactor Panel
+## Reactor Panel
 
 Reactor panel consist of the main reactor control switches (for the control rods) and secondary control switch (for the boric acid). Following switches are available:
 
@@ -22,7 +22,7 @@ On the right part:
 - IPR CTRL/LEVEL - this is a selector for the IPR mode (refer to startup)
 - SETPOIN - power setpoint selector for the autocontrol, there are also buttons for predefined powers
 
-# CVCS
+## CVCS
 
 On the left side of the reactor panel there is CVCS panel which is used to recycle used boric acid. The system consists of a water tank, boron concentrate tank, external tank and evaporator. Whenever water or boric acid is injected into the core, same amout of water from the core is mode into the external tank. This water will consist of some boric acid (depending on concentration), which can be recycled.
 
@@ -31,6 +31,6 @@ On the left side of the reactor panel there is CVCS panel which is used to recyc
 - STEAM OUT - reliefs the steam from evaporator to condenser (not simulated) and back to water tank
 - CONC OUT - when all water evaporated moves remaining boric acid back to boric acid tank
 
-# RHR
+## RHR
 
 Residual Heat Removal panel is on the far left side. At this moment only RHR mode is simulated. RHR will cool down left/right parts of the core during shutdown if pressure is below 3MPa.
