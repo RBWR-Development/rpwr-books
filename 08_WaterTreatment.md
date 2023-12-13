@@ -1,4 +1,4 @@
-## Condensate water treatment
+# Condensate water treatment
 
 This small panel consits of:
 
