@@ -1,14 +1,14 @@
-## Electrical
+# Electrical
 
 Electrical panel is used to divert energy between all important devices
 
-# Offsite lines
+## Offsite lines
 
 There are two offsite lines available:
 - Line 826 - this line can be used to power the plant during startup and to send energy for profit
 - Line 911 - this line can be used only as auxiliary for startup and during outages on Line 826, it won't accept power
 
-# Buses
+## Buses
 
 There are 3 buses:
 
@@ -21,6 +21,6 @@ Both of these buses can be connected either to one of the offsites or the genera
 
 This bus is powered from the Safety Bus or a battery
 
-# Islanding mode
+## Islanding mode
 
 Islanding is a mode in which the plant powers itself. In order to go into islanding more, power production must be exactly matched with site power needs (so sent outside is 0). Next Line 826 breaker should be opened. Turbine will desync but will provide power to the buses. Depending on load changes RPM might change and it must be kept between 1450-1550. Whenever Line 826 is reconnected, generator will have to be synced to it again.
