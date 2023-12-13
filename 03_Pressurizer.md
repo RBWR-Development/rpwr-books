@@ -1,4 +1,4 @@
-## Pressurizer
+# Pressurizer
 
 Pressurizer is a device used to maintain proper pressure in the primary circuit (usually between 10-15 MPa). In order to do so pressurizer is built as a long pipe filled more or less halfway with primary circuit water. Pressurizer heaters will heat this water allowing water to boil and creating steam pressure which affects the whole primary system.
 Pressure should be always enough that water never boils in the primary outside of the pressurizer. For that boiling point temperature should always be higher than primary water temperature.
