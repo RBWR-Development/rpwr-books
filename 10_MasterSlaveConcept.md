@@ -10,7 +10,7 @@ Light water moderated reactor reactivity will depend on density of the moderator
 
 As flow in the primary system can be controlled, temperature of the core can be changed by just adjusting the RCPs. When the flow is higher, more cooling is provided and core temerature will drop. Reactor will feel this effect and will automatically raise power to reach previous temperature. Of course it works the same way in the other direction. If we reduce cooling, temperature will raise, reactivity will drop, again reducing temperature.
 
-Contrary to the first believ, primary circuit flow alone can't be used to change reactor temperature in the long term as reactor will always react to the change. It can be however another mean to change the reactor power. If more cooling is provided reactor power would raise.
+Contrary to the first belief, primary circuit flow alone can't be used to change reactor temperature in the long term as reactor will always react to the change. It can be however another mean to change the reactor power. If more cooling is provided reactor power would raise.
 
 ## Secondary circuit feedback
 
