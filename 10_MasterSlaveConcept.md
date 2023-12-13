@@ -14,7 +14,7 @@ Contrary to the first belief, primary circuit flow alone can't be used to change
 
 ## Secondary circuit feedback
 
-Secondary circuit takes power from the primary. The more flow in the primary and the higher primary temperature, the more steam production one may expect. However temperature in the secondary is mostly set by the pressure which affects boiling point. In other words the higher the pressure, the higher the water temperature will raise before it boils. As the secondary temperature affects heat exchange, pressure can changes can affect the whole process. This is where Mster/Slave concept arises.
+Secondary circuit takes power from the primary. The more flow in the primary and the higher primary temperature, the more steam production one may expect. However temperature in the secondary is mostly set by the pressure which affects boiling point. In other words the higher the pressure, the higher the water temperature will raise before it boils. As the secondary temperature affects heat exchange, pressure can changes can affect the whole process. This is where Master/Slave concept arises.
 
 ## Turbine-Master/Reactor-Slave
 
