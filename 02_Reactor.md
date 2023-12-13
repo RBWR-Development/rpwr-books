@@ -7,7 +7,7 @@ Reactor panel is located on the left side of the control room. It consists of th
 Reactor panel consist of the main reactor control switches (for the control rods) and secondary control switch (for the boric acid). Following switches are available:
 
 On the left part:
-- ROD MOV (rod movement) - allows to manuallt withdraw or insert the control rods
+- ROD MOV (rod movement) - allows to manually withdraw or insert the control rods
 - MOVE SPD (movement speed) - allows to change how quickly rods move (slow/medium/fast)
 - MODE SEL (mode selector) - allows to pull all rods at once (ALL) or single, selectable groups of rods (GROUP)
 - AUTO BLNC (automaric balancer) - automatically balances power output between individual groups of rods
