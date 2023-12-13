@@ -1,4 +1,4 @@
-## Condenser
+# Condenser
 
 The main idea of the condenser is to use an external circulating water circuit to cool down the steam and let it condensate back into water, which gathers in the hotwell. Condenser has several devices:
 
