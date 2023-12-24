@@ -24,7 +24,7 @@ On the right part:
 
 ## CVCS
 
-On the left side of the reactor panel there is CVCS panel which is used to recycle used boric acid. The system consists of a water tank, boron concentrate tank, external tank and evaporator. Whenever water or boric acid is injected into the core, same amout of water from the core is mode into the external tank. This water will consist of some boric acid (depending on concentration), which can be recycled.
+On the left side of the reactor panel there is CVCS panel which is used to recycle used boric acid. The system consists of a water tank, boron concentrate tank, external tank and evaporator. Whenever water or boric acid is injected into the core, same amout of water from the core is moved into the external tank. This water will consist of some boric acid (depending on concentration), which can be recycled.
 
 - XFR EVAP (transfer to evaporator) - transfers water from the external tank into evaporator
 - EVAP HEAT (evaporator heater) - heats up the evaporator using live steam from the secondary system, water will boil in evaporator changing into steam, while remaining boric acid will stay at the bottom
