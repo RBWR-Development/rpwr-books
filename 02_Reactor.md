@@ -20,7 +20,7 @@ The middle part allows to select individual groups of rods or their banks. A 2-d
 On the right part:
 - ROD LEVEL - this is a selector and indicator for Vertical Rod Display. It is possible to see one of 10 vertical slices of the core, or power averaged throut all levels
 - IPR CTRL/LEVEL - this is a selector for the IPR mode (refer to startup)
-- SETPOIN - power setpoint selector for the autocontrol, there are also buttons for predefined powers
+- SETPOINT - power setpoint selector for the autocontrol, there are also buttons for predefined powers
 
 ## CVCS
 
