@@ -1,10 +1,10 @@
-# Master-Slave concept strategy
+# Master-Slave concept 
 
-PWR plant has some interestig effects. Let's summarize them here:
+PWR plants have interesting effects and feedback loops, lets summarize them here:
 
 ## Reactor feedback
 
-Light water moderated reactor reactivity will depend on density of the moderator which in PWR is the coolant water. Therefore the higher the temperature in the core, the lower the reactivity. This natural phenomene is main safety effect which stabilises the core. If the power raises and core temperature raises, the reactivity will drop. On the other hand when power and temperature drop, the reactivity will raise. Reactor is therefore stable although it will tend to oscillate around optimal power like a pendulum.
+In a light water moderated reactor, reactivity will depend on density of the water coolant. Therefore the higher the temperature in the core, the lower the reactivity. This natural phenomenon is main safety effect which stabilises the core. If the power raises and core temperature raises, the reactivity will drop. On the other hand when power and temperature drop, the reactivity will raise. The reactor is therefore stable although it will tend to oscillate around optimal power like a pendulum.
 
 ## Primary circulation feedback
 
