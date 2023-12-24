@@ -13,7 +13,7 @@ There are two offsite lines available:
 There are 3 buses:
 
 - Main Bus - powers non critical equipment
-- Safery Bus - powers critical equipment
+- Safety Bus - powers critical equipment
 
 Both of these buses can be connected either to one of the offsites or the generator. Safety bus can also be powered by diesel generator.
 
