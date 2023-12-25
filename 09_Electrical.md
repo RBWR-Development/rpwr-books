@@ -5,8 +5,8 @@ The electrical panel is used to control breakers that power all devices in the p
 ## Offsite Lines
 
 There are two offsite lines available:
-- Line 911 - this line can be used to power the plant during startup and to send energy to the grid to meet demand.
-- Line 826 - this line can be used only as auxiliary for startup and during outages on Line 91, it won't accept power.
+- Line 826 - this line can be used to power the plant during startup and to send energy to the grid to meet demand.
+- Line 911 - this line can be used only as auxiliary for startup and during outages on Line 826, it won't accept power.
 
 ## Buses
 
