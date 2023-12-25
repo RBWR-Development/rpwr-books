@@ -1,6 +1,6 @@
-# Condensate water treatment
+# Water treatment
 
-This small panel consits of:
+This small panel consists of:
 
-- 2 polishers - they demineralize and clean the feedwater, one should be active at all times
-- 4 pre-heaters - they heat up feedwater for higher efficiency, they should be all active when steam is available
+- 2 Polishers that demineralize and clean the feedwater, only one should be active at all times.
+- 4 Pre-heaters which are used to heat up the feedwater for higher efficiency, they should be all active when steam is available.
