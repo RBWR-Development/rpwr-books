@@ -8,7 +8,7 @@ Raising reactor power will cause primary temperature to rise and will yield high
 
 # Changing primary flow
 
-Raising primary cooling flow WILL NOT change the temperature in the primary. Instead reactor will react with higher power to more or less maintain the temperature. Therefore:
+Raising primary cooling flow WILL NOT change the temperature in the primary. Instead, reactor will react with higher power to more or less maintain the temperature. Therefore:
 - RCP flow can be treated as another means of changing the reactor power (along with rods and boric acid). More flow will cause more power and more steam production.
 - In order to reduce primary temperature after cooling flow is raised, reactivity must be reduced with other reactor controls to stop the power raise.
 
