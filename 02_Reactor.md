@@ -8,17 +8,17 @@ The reactor panel consists of the main reactor control switches (for the control
 
 On the left:
 - ROD MOV (rod movement) - Allows to manually withdraw or insert the control rods.
-- MOVE SPD (movement speed) - Allows to change how quickly rods move (slow/medium/fast).
+- MOVE SPD (movement speed) - Allows changing how quickly rods move (slow/medium/fast).
 - MODE SEL (mode selector) - Allows to pull all rods at once (ALL) or single, selectable groups of rods (GROUP).
 - AUTO BLNC (automatic balancer) - Automatically balances power output between individual groups of rods.
-- AUTO MODE (autocontrol mode) - Allows to choose whether autocontrol should use rods or boric acid injection.
+- AUTO MODE (autocontrol mode) - Allows choosing whether autocontrol should use rods or boric acid injection.
 - BORIC ACID (boric acid) - Allows to manually inject boric acid into the core or dilute with water.
 
 On the middle:
 The middle section allows you to select individual groups of rods or their banks. A 2-d diagram of the rod groups is provided although it is not realistic for a PWR plant, we decided to provide it so that the player knows  the exact position of any selected rod. Also whole banks (sets of 4 groups) can be selected. There is also a switch for startup and run mode.
 
 On the right:
-- ROD LEVEL - This is a selector and indicator for Vertical Rod Display. It is possible to see one of 10 vertical slices of the core, or power averaged throught all levels.
+- ROD LEVEL - This is a selector and indicator for Vertical Rod Display. It is possible to see one of 10 vertical slices of the core, or power averaged through all levels.
 - IPR CTRL/LEVEL - This is a selector for the IPR mode (refer to startup).
 - SETPOINT - Power setpoint selector for the autocontrol, there are also buttons for predefined powers.
 
